@@ -3,10 +3,12 @@ This repository contains a machine learning model designed for predictive mainte
 
 The project includes:
 
-Data Preprocessing: Cleaning and feature engineering on sensor and operational data.
-Model Training: Building and training regression and classification models (Random Forest, etc.) to predict RUL and Failure Prediction.
-Performance Evaluation: Evaluating model performance with metrics such as precision, recall, F1-score, and R-squared.
-Dashboard Integration: Using the predictions to build an interactive dashboard for visualizing the health status of equipment, remaining useful life, and failure predictions.
+**Data Preprocessing:** Cleaning and feature engineering on sensor and operational data.
+**Model Training:** Building and training regression and classification models (Random Forest, etc.) to predict RUL and Failure Prediction.
+**Performance Evaluation:** Evaluating model performance with metrics such as precision, recall, F1-score, and R-squared.
+**Dashboard Integration:** Using the predictions to build an interactive dashboard for visualizing the health status of equipment, remaining useful life, and failure predictions.
+
+
 This project aims to optimize maintenance schedules, reduce unplanned downtime, and support decision-making in industries that rely on complex machinery.
 
 
